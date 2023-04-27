@@ -18,3 +18,7 @@ Como conclusión, el canal digital es indispensable en el contexto que se presen
 + **[Compumax](https://www.compumax.com.co/?gclid=CjwKCAjwitShBhA6EiwAq3RqA2Yq7evzwg_RVCrq3en5y9bRJc5z-T7gsGnLcoZwR0a41pb6YUT43RoC9yIQAvD_BwE)**
 + **[Compuclon](https://compuclon.com/)**
 + **[Tienda Gamer Medellín](https://www.tiendagamermedellin.co/)**
+
+## Wireframe
+
+[Wifeframe Online](https://balsamiq.cloud/slip448/p5cqy9k)
