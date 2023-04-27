@@ -22,3 +22,7 @@ Como conclusión, el canal digital es indispensable en el contexto que se presen
 ## Wireframe
 
 [Wifeframe Online](https://balsamiq.cloud/slip448/p5cqy9k)
+
+## Gestor de Projectos
+
+Jira: <https://lakril.atlassian.net/jira/software/projects/DPI/boards/3>
